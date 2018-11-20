@@ -13,4 +13,4 @@
 
 **Today's Progress**: Resumed FCC. Currently working through the basic HTML sections. It's all stuff I know, but the purpose here fluency. I'm doing a little work on my own website, too. 
 
-**Thoughts:** CatPhotoApp... yay!
+**Thoughts:** CatPhotoApp... yay! CSS refresher.It seems like the hour flew by. I don't feel like I got much done. But, it is progress! And My hour is banked! C you tomorrow!
