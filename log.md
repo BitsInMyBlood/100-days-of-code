@@ -14,3 +14,9 @@
 **Today's Progress**: Resumed FCC. Currently working through the basic HTML sections. It's all stuff I know, but the purpose here fluency. I'm doing a little work on my own website, too. 
 
 **Thoughts:** CatPhotoApp... yay! CSS refresher.It seems like the hour flew by. I don't feel like I got much done. But, it is progress! And My hour is banked! C you tomorrow!
+
+### Day 2: November 20, 2018
+
+**Today's Progress**: Resumed FCC. Today's section begins with 'Applied Visual Design'. 
+
+**Thoughts:** The box shadow css looks really snazzy: box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); opacity of 0.7 on hyperlinks does look nice. line-height, font-weight, #class defined css, hover, CSS Box Model, relative/absolute/fixed positioning, float, z-index, color theory, complimentary colors... WHEEE!
