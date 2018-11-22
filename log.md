@@ -20,3 +20,9 @@
 **Today's Progress**: Resumed FCC. Today's section begins with 'Applied Visual Design'. 
 
 **Thoughts:** The box shadow css looks really snazzy: box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); opacity of 0.7 on hyperlinks does look nice. line-height, font-weight, #class defined css, hover, CSS Box Model, relative/absolute/fixed positioning, float, z-index, color theory, complimentary colors... WHEEE!
+
+### Day 3: November 21, 2018
+
+**Today's Progress**: Resumed FCC. Today's section continues 'Applied Visual Design: Adjusting the tone of color
+
+**Thoughts:** hsl() hue(tint) saturation(grayness) lightness(white/blackness), Using hsl() is a bit confusing at first..I don't remember this! linear-gradient property of background-color, repeating-linear-gradient, transform:scale(x) and on hover, skewX(), shape manipulation kung-fu moon, 
