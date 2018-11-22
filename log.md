@@ -25,4 +25,4 @@
 
 **Today's Progress**: Resumed FCC. Today's section continues 'Applied Visual Design: Adjusting the tone of color
 
-**Thoughts:** hsl() hue(tint) saturation(grayness) lightness(white/blackness), Using hsl() is a bit confusing at first..I don't remember this! linear-gradient property of background-color, repeating-linear-gradient, transform:scale(x) and on hover, skewX(), shape manipulation kung-fu moon, 
+**Thoughts:** hsl() hue(tint) saturation(grayness) lightness(white/blackness), Using hsl() is a bit confusing at first..I don't remember this! linear-gradient property of background-color, repeating-linear-gradient, transform:scale(x) and on hover, skewX(), shape manipulation kung-fu moon, making a heart with css ::before and ::after, css @keyframes, 
