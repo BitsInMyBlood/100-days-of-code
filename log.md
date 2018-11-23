@@ -31,4 +31,10 @@
 
 **Today's Progress**: Resumed FCC. Today's section continues 'Applied Visual Design: Animating objects
 
-**Thoughts:** animation-fill-mode, animation-iteration-count: infinite, animation-timing-function, . 
+**Thoughts:** animation-fill-mode, animation-iteration-count: infinite, animation-timing-function. 
+
+### Day 5: November 23, 2018
+
+**Today's Progress**: Resumed FCC. Today's section continues 'Applied Visual Design: Change animation timing with keywords.
+
+**Thoughts:** animation-timing-function linear and ease-out, cubic-bezier, 
