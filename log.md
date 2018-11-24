@@ -3,7 +3,7 @@
 ### Day 0: November 18, 2018
 
 
-**Today's Progress**: Began my 100 days of coding challenge by restarting my work toward completing FreeCodeCamp.
+**Today's Progress:** Began my 100 days of coding challenge by restarting my work toward completing FreeCodeCamp.
 
 **Thoughts:** Being inconsistent with the time I apply toward improving my web development skill-set has been the #1 problem. I had previously completed about 20% of the FCC, but I decided to start over. Web development hasn't been a primary focus this past year. I love coding! Unfortunately, I haven't made it a priority. I learned about the 100 days of code challenge today. I had heard of it before, but had never learned what it was. So after starting over on the FCC, I quickly realized that reviewing the basics never hurts. 
 
@@ -17,24 +17,30 @@
 
 ### Day 2: November 20, 2018
 
-**Today's Progress**: Resumed FCC. Today's section begins with 'Applied Visual Design'. 
+**Today's Progress:** Resumed FCC. Today's section begins with 'Applied Visual Design'. 
 
 **Thoughts:** The box shadow css looks really snazzy: box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); opacity of 0.7 on hyperlinks does look nice. line-height, font-weight, #class defined css, hover, CSS Box Model, relative/absolute/fixed positioning, float, z-index, color theory, complimentary colors... WHEEE!
 
 ### Day 3: November 21, 2018
 
-**Today's Progress**: Resumed FCC. Today's section continues 'Applied Visual Design: Adjusting the tone of color
+**Today's Progress:** Resumed FCC. Today's section continues 'Applied Visual Design: Adjusting the tone of color
 
 **Thoughts:** hsl() hue(tint) saturation(grayness) lightness(white/blackness), Using hsl() is a bit confusing at first..I don't remember this! linear-gradient property of background-color, repeating-linear-gradient, transform:scale(x) and on hover, skewX(), shape manipulation kung-fu moon, making a heart with css ::before and ::after, css @keyframes, 
 
 ### Day 4: November 22, 2018
 
-**Today's Progress**: Resumed FCC. Today's section continues 'Applied Visual Design: Animating objects
+**Today's Progress:** Resumed FCC. Today's section continues 'Applied Visual Design: Animating objects
 
 **Thoughts:** animation-fill-mode, animation-iteration-count: infinite, animation-timing-function. 
 
 ### Day 5: November 23, 2018
 
-**Today's Progress**: Resumed FCC. Today's section continues 'Applied Visual Design: Change animation timing with keywords.
+**Today's Progress:** Resumed FCC. Today's section continues 'Applied Visual Design: Change animation timing with keywords.
 
-**Thoughts:** animation-timing-function linear and ease-out, cubic-bezier, 
+**Thoughts:** animation-timing-function linear and ease-out, cubic-bezier, applied accessibility, img alt text
+
+### Day 6: November 24, 2018
+
+**Today's Progress**: Resumed FCC. Today's section continues 'Applied Visual Design: Header landmark.
+
+**Thoughts:** The importance of accurately using header, nav, footer tags for accissibility, audio content, figure, figcaption, form attributes including label, fieldset, legend, date, datetime, sr-only (hidden), contrast ratio, using descriptive anchor text, accesskey, tabindex. On to reponsive web design:
