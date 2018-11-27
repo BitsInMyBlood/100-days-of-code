@@ -44,3 +44,15 @@
 **Today's Progress**: Resumed FCC. Today's section continues 'Applied Visual Design: Header landmark.
 
 **Thoughts:** The importance of accurately using header, nav, footer tags for accissibility, audio content, figure, figcaption, form attributes including label, fieldset, legend, date, datetime, sr-only (hidden), contrast ratio, using descriptive anchor text, accesskey, tabindex. On to reponsive web design:
+
+### Day 7: November 25, 2018
+
+**Today's Progress**: Resumed FCC. Responsive web design: creating a media query.
+
+**Thoughts:** Unlimited number of media queries. The formatting of the queries was satisfying.
+
+### Day 8: November 26, 2018
+
+**Today's Progress:** Resumed FCC. responsive images. 
+
+**Thoughts:** retina images (thats new), the 4 viewport units: vw vh vmin vmax. CSS flexboxes, flex! display: flex; and flex-direction: row/column, alignment options,
