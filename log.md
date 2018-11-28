@@ -56,3 +56,9 @@
 **Today's Progress:** Resumed FCC. responsive images. 
 
 **Thoughts:** retina images (thats new), the 4 viewport units: vw vh vmin vmax. CSS flexboxes, flex! display: flex; and flex-direction: row/column, alignment options,
+
+### Day 9: November 27, 2018
+
+**Today's Progress:** Resumed FCC. Flexbox justify content property. Align content property for flex items. cross-axis. align-items, 
+
+**Thoughts:** Flex containers are interesting. They're simply a div with CSS defined for display: flex;, flex-wrap controls how items within the flex container will wrap or not. Manipulations for flex items: flex-shrink, flex-grow, flex-basis, flex shortcut, order, align-self! On to a new section, tomorrow: CSS Grid.
