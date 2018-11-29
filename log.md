@@ -62,3 +62,7 @@
 **Today's Progress:** Resumed FCC. Flexbox justify content property. Align content property for flex items. cross-axis. align-items, 
 
 **Thoughts:** Flex containers are interesting. They're simply a div with CSS defined for display: flex;, flex-wrap controls how items within the flex container will wrap or not. Manipulations for flex items: flex-shrink, flex-grow, flex-basis, flex shortcut, order, align-self! On to a new section, tomorrow: CSS Grid.
+
+### Day 10! November 28, 2018
+
+**Today's Progress:** I'm continuing FCC. Picking up at CSS grid. grid-template-columns, grid-template-rows, grid-column-gap, grid-row-gap - both very nice! But grid-gap is even nicer! grid-column and grid-row based on the 4 x 4 grid ( 1 / 4, 2 / 4, 3 / 4, 1 / 3, 2 / 3, 2 / 4 etc). justify-self: center, align-self: end, justify-items, align-items. Grid-template-areas! Whoa - next level stuff. grid-area, minmax... so may ways to define the grid! 
