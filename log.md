@@ -66,3 +66,9 @@
 ### Day 10! November 28, 2018
 
 **Today's Progress:** I'm continuing FCC. Picking up at CSS grid. grid-template-columns, grid-template-rows, grid-column-gap, grid-row-gap - both very nice! But grid-gap is even nicer! grid-column and grid-row based on the 4 x 4 grid ( 1 / 4, 2 / 4, 3 / 4, 1 / 3, 2 / 3, 2 / 4 etc). justify-self: center, align-self: end, justify-items, align-items. Grid-template-areas! Whoa - next level stuff. grid-area, minmax... so may ways to define the grid! 
+
+### Day 11 November 29, 2018
+
+**Today's Progress: Resuming FCC, finishing out the CSS grid section
+
+**Thoughts:**  grid-template-columns, auto-fill, auto-fit. Remember about @media queries to control the layout on various screen sizes. Tomorrow I'll start on the tribute page project. I've done one last time through the FCC, but this time I've already got some new ideas.
