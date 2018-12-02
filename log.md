@@ -69,14 +69,20 @@
 
 ### Day 11 November 29, 2018
 
-**Today's Progress: Resuming FCC, finishing out the CSS grid section
+**Today's Progress:** Resuming FCC, finishing out the CSS grid section
 
 **Thoughts:**  grid-template-columns, auto-fill, auto-fit. Remember about @media queries to control the layout on various screen sizes. Tomorrow I'll start on the tribute page project. I've done one last time through the FCC, but this time I've already got some new ideas.
 
 ### Day 12 November 30, 2018
 
-**Today's Progress: Completed the Tribute Page project
+**Today's Progress:** Completed the Tribute Page project
 
 **Thoughts:**: https://codepen.io/bitsinmyblood/pen/QJzNXa
+
+### Day 13 December 1, 2018
+
+**Today's Progress:** Starting on "building a survey form"
+
+**Thoughts**: Made some progress on the survey
 
 
