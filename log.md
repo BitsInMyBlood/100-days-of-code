@@ -85,4 +85,10 @@
 
 **Thoughts**: Made some progress on the survey
 
+### Day 14 December 2, 2018
+
+**Today's Progress: Continuing the "Build a survey" project
+
+**Thoughts**: Building the structure right now in terms of div's with description id's. The positioning of all the elements in the form is challenging.
+
 
