@@ -91,4 +91,10 @@
 
 **Thoughts**: Building the structure right now in terms of div's with description id's. The positioning of all the elements in the form is challenging.
 
+### Day 15 December 3, 2018
+
+**Today's Progress: Working on "Build a survey" project
+
+**Thoughts:** The layout is a struggle for me. Positioning the elements of the form proves challenging. Brutal. Properly aligning the "select" dropdown where I want it is proving to be annoying.
+
 
