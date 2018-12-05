@@ -97,4 +97,8 @@
 
 **Thoughts:** The layout is a struggle for me. Positioning the elements of the form proves challenging. Brutal. Properly aligning the "select" dropdown where I want it is proving to be annoying.
 
+### Day 16 December 4, 2018
 
+**Today's Progress: Back to FCC "Build a survey" project
+
+**Thoughts:** Adding dropdown, radio buttons, completed the survey project! One major issue is, still, that styling. Specifically, the alignment and positioning of each element. Next project: Product Landing page. 
