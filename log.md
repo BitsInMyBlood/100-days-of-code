@@ -102,3 +102,9 @@
 **Today's Progress: Back to FCC "Build a survey" project
 
 **Thoughts:** Adding dropdown, radio buttons, completed the survey project! One major issue is, still, that styling. Specifically, the alignment and positioning of each element. Next project: Product Landing page. 
+
+### Day 17 December 5, 2018
+
+**Today's Progress: Began "Product Landing Page" project
+
+**Thoughts:** I'm still annoyed at the alignment issues on the form, but for the sake of keeping my momentum going I'm moving on to the next project. Started the landing page.
