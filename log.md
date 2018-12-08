@@ -115,3 +115,8 @@
 
 **Thoughts:** Making a mental note to go back and correct the formatting of these projects before I move on. Walking though the codepen tests doesn't guide you to style content or organize in div's, so I'm kind of confused about why that is. I would think that the if you're going to walk me through building it, why not walk me through building it in the most efficient and high quality way as possible? I continue to be surprised at how various elements position themselves.
 
+### Day 19 December 7, 2018
+
+**Today's Progress: Continuing the "product landing page" project.
+
+**Thoughts:** again, I'm failing at styling these projects well. I suppose I'll go though and style them all better, at some point.
