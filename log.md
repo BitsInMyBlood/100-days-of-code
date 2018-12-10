@@ -99,7 +99,7 @@
 
 ### Day 16 December 4, 2018
 
-**Today's Progress: Back to FCC "Build a survey" project
+**Today's Progress:** Back to FCC "Build a survey" project
 
 **Thoughts:** Adding dropdown, radio buttons, completed the survey project! One major issue is, still, that styling. Specifically, the alignment and positioning of each element. Next project: Product Landing page. 
 
@@ -111,7 +111,7 @@
 
 ## Day 18 December 6, 2018
 
-**Today's Progress: continued building the product landing page.
+**Today's Progress:** continued building the product landing page.
 
 **Thoughts:** Making a mental note to go back and correct the formatting of these projects before I move on. Walking though the codepen tests doesn't guide you to style content or organize in div's, so I'm kind of confused about why that is. I would think that the if you're going to walk me through building it, why not walk me through building it in the most efficient and high quality way as possible? I continue to be surprised at how various elements position themselves.
 
@@ -121,8 +121,14 @@
 
 **Thoughts:** again, I'm failing at styling these projects well. I suppose I'll go though and style them all better, at some point.
 
-## Day 20 December 8, 2018
+### Day 20 December 8, 2018
 
 **Today's Progress: Worked on the "product landing page".
 
 **Thoughts:** Had to cut it short, will resume tomorrow.
+
+### Day 21 December 8, 2018
+
+**Today's Progress:** working on the "product landing page."
+
+**Thoughts:** Currently at 14/16 tests passed on this project. However, the I've added no styling. I think it's reasonable to plan on completing the functionality of the projects and passing the tests, followed by styling them. Ok, styled it a bit better. Used flexboxes, they're nice. On to "build a technical documentation page" project.
