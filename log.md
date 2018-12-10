@@ -120,3 +120,9 @@
 **Today's Progress: Continuing the "product landing page" project.
 
 **Thoughts:** again, I'm failing at styling these projects well. I suppose I'll go though and style them all better, at some point.
+
+## Day 20 December 8, 2018
+
+**Today's Progress: Worked on the "product landing page".
+
+**Thoughts:** Had to cut it short, will resume tomorrow.
