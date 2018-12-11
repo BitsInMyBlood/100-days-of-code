@@ -127,8 +127,14 @@
 
 **Thoughts:** Had to cut it short, will resume tomorrow.
 
-### Day 21 December 8, 2018
+### Day 21 December 9, 2018
 
 **Today's Progress:** working on the "product landing page."
 
 **Thoughts:** Currently at 14/16 tests passed on this project. However, the I've added no styling. I think it's reasonable to plan on completing the functionality of the projects and passing the tests, followed by styling them. Ok, styled it a bit better. Used flexboxes, they're nice. On to "build a technical documentation page" project.
+
+### Day 22 December 10, 2018
+
+**Today's Progress:** Started the technical documentation page
+
+**Thoughts**: Working on getting the media query right.
