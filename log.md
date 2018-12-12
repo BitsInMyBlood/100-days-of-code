@@ -138,3 +138,9 @@
 **Today's Progress:** Started the technical documentation page
 
 **Thoughts**: Working on getting the media query right.
+
+### Day 23 December 11, 2018
+
+**Today's Progress:** Getting close to my first ever completion of a FCC part! Continuing work on the "Technical Documentation Page"
+
+**Thoughts**: Finished the tech docu page! Definitely getting a better field for the CSS. Starting the portfolio page!
