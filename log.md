@@ -144,3 +144,9 @@
 **Today's Progress:** Getting close to my first ever completion of a FCC part! Continuing work on the "Technical Documentation Page"
 
 **Thoughts**: Finished the tech docu page! Definitely getting a better field for the CSS. Starting the portfolio page!
+
+### Day 24 December 12, 2018
+
+**Today's Progress:** Working on the Portfolio Page porject.
+
+**Thoughts:** Finished the portfolio page! Am I done with this section?! Ok, done with basic HTML and HTML5, on to javascript, for which I'm glad!
