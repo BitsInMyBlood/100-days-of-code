@@ -150,3 +150,9 @@
 **Today's Progress:** Working on the Portfolio Page porject.
 
 **Thoughts:** Finished the portfolio page! Am I done with this section?! Ok, done with basic HTML and HTML5, on to javascript, for which I'm glad!
+
+### Day 25 December 13, 2018
+
+**Today's Progress:** Worked on FCC Javascript module
+
+**Thoughts:**: Got half-way through the basic javascript section
