@@ -156,3 +156,13 @@
 **Today's Progress:** Worked on FCC Javascript module
 
 **Thoughts:**: Got half-way through the basic javascript section
+
+### Day 26, 27 December 14 + 15, 2018
+
+**Today's Progress:** Due to a high wind storm we had a state of emergency declared in my town. A tree fell into our house, so once the power came back on I spent the weekend clearing debris and repairing our roof.
+
+### Day 28 December 16, 2018
+
+**Today's Progress:** Getting started early today to make up some lost progress because of the storm. Getting going again on the javascript section. Starting on the logical order of if statements.
+
+**Thoughts:** I enjoy javascript more than html.
