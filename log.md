@@ -166,3 +166,9 @@
 **Today's Progress:** Getting started early today to make up some lost progress because of the storm. Getting going again on the javascript section. Starting on the logical order of if statements.
 
 **Thoughts:** I enjoy javascript more than html.
+
+### Day 29 December 17, 2018
+
+**Today's Progress:** Nearly complete with the first section of javascript on FCC.
+
+**Thoughts:** The record collection activity took me a while.
