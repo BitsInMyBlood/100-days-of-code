@@ -172,3 +172,11 @@
 **Today's Progress:** Nearly complete with the first section of javascript on FCC.
 
 **Thoughts:** The record collection activity took me a while.
+
+### Day 30 December 18, 2018
+
+**Today's Progress:** Working to complete the javascript
+
+**Thoughts:** This whole section has been a good refresher, so far. Nothing new.
+
+
