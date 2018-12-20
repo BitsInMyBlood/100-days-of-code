@@ -179,4 +179,8 @@
 
 **Thoughts:** This whole section has been a good refresher, so far. Nothing new.
 
+### Day 31 December 19, 2018
 
+**Today's Progress:** Making a lot of progress on the Javascript module, FCC
+
+**Thoughts**: Doing ES6 section, nearly done.
