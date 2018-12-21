@@ -189,4 +189,4 @@
 
 **Today's Progress:** FCC Javascript, ES6, understanding the difference between import and require
 
-**Thoughts:** The "ES6: Use * to Import Everything.." is buggy.
+**Thoughts:** The "ES6: Use * to Import Everything.." is a little weird.
