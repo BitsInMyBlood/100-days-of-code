@@ -184,3 +184,9 @@
 **Today's Progress:** Making a lot of progress on the Javascript module, FCC
 
 **Thoughts**: Doing ES6 section, nearly done.
+
+### Day 31 December 20, 2018
+
+**Today's Progress:** FCC Javascript, ES6, understanding the difference between import and require
+
+**Thoughts:** The "ES6: Use * to Import Everything.." is buggy.
