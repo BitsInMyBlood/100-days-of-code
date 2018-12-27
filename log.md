@@ -192,3 +192,12 @@
 **Thoughts:** The "ES6: Use * to Import Everything.." is a little weird.
 
 Sorry, #100daysofcode! Christmas with the family!
+
+## Day 32 December 27, 2018
+
+**Today's Progress:** I'm sick today, so that's a bummer. Christmas was great, with family and friends. Getting going on the Javascript, regular expressions. 
+
+
+**Thoughts:** I've been getting much more comfortable with regular exressions.
+
+
