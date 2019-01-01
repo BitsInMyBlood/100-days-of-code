@@ -197,7 +197,6 @@ Sorry, #100daysofcode! Christmas with the family!
 
 **Today's Progress:** I'm sick today, so that's a bummer. Christmas was great, with family and friends. Getting going on the Javascript, regular expressions. 
 
-
 **Thoughts:** I've been getting much more comfortable with regular exressions.
 
 
