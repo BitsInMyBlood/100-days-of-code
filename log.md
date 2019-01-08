@@ -185,7 +185,7 @@
 
 **Thoughts**: Doing ES6 section, nearly done.
 
-### Day 31 December 20, 2018
+### Day 32 December 20, 2018
 
 **Today's Progress:** FCC Javascript, ES6, understanding the difference between import and require
 
@@ -193,13 +193,13 @@
 
 Sorry, #100daysofcode! Christmas with the family!
 
-## Day 32 December 27, 2018
+## Day 33 December 27, 2018
 
 **Today's Progress:** I'm sick today, so that's a bummer. Christmas was great, with family and friends. Getting going on the Javascript, regular expressions. 
 
 **Thoughts:** I've been getting much more comfortable with regular exressions.
 
-### Day 33 January 7, 2019
+### Day 34 January 7, 2019
 
 **Today's Progress:** Back in action after a much needed Christmas vacation. Continuing the section on regular expressions.
 
