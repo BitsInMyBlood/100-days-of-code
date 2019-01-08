@@ -199,4 +199,8 @@ Sorry, #100daysofcode! Christmas with the family!
 
 **Thoughts:** I've been getting much more comfortable with regular exressions.
 
+### Day 33 January 7, 2019
 
+**Today's Progress:** Back in action after a much needed Christmas vacation. Continuing the section on regular expressions.
+
+**Thoughts:** Continuing to hone my regular expression chops.
