@@ -204,3 +204,9 @@ Sorry, #100daysofcode! Christmas with the family!
 **Today's Progress:** Back in action after a much needed Christmas vacation. Continuing the section on regular expressions.
 
 **Thoughts:** Continuing to hone my regular expression chops.
+
+### Day 35 January 8, 2019
+
+**Today's Progress:** Finishing up the regular expressions section of the javascript module on FCC
+
+**Thoughts:** Sometimes, these regular expressions seem like magic. 
