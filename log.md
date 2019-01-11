@@ -211,8 +211,14 @@ Sorry, #100daysofcode! Christmas with the family!
 
 **Thoughts:** Sometimes, these regular expressions seem like magic. 
 
-### Day 36 January 8, 2019
+### Day 36 January 9, 2019
 
 **Today's Progress:** Completed the regular expression module, and started the debugging module.
 
 **Thoughts:** I like debugging. Studying for the Oracle Java SE 7 test involved a ton of debugging. Yay, debugging!
+
+### Day 37 January 10, 2019
+
+**Today's Progress:** Finished the debugging section of javascript
+
+**Thoughts:** Next stop, data structures.
