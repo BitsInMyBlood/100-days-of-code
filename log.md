@@ -222,3 +222,9 @@ Sorry, #100daysofcode! Christmas with the family!
 **Today's Progress:** Finished the debugging section of javascript
 
 **Thoughts:** Next stop, data structures.
+
+### Day 37 January 14, 2019
+
+**Today's Progress:** Started on Javascript, datastructures
+
+**Thoughts:** ok, doing good.
