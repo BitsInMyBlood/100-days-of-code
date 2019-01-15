@@ -223,7 +223,7 @@ Sorry, #100daysofcode! Christmas with the family!
 
 **Thoughts:** Next stop, data structures.
 
-### Day 37 January 14, 2019
+### Day 38 January 14, 2019
 
 **Today's Progress:** Started on Javascript, datastructures
 
