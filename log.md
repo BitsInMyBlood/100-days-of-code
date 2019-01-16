@@ -228,3 +228,9 @@ Sorry, #100daysofcode! Christmas with the family!
 **Today's Progress:** Started on Javascript, datastructures
 
 **Thoughts:** ok, doing good.
+
+### Day 39 January 15, 2019
+
+**Today's Progress:** Javascript, data structures.
+
+**Thoughts:** push, pop, unshift, shift, splice, slice, spread operator (...Array)
