@@ -234,3 +234,9 @@ Sorry, #100daysofcode! Christmas with the family!
 **Today's Progress:** Javascript, data structures.
 
 **Thoughts:** push, pop, unshift, shift, splice, slice, spread operator (...Array)
+
+### Day 40 January 16, 2019
+
+**Today's Progress:** More data structures
+
+**Thoughts:** Getting a lot of practice with multidimensional arrays. 
