@@ -240,3 +240,9 @@ Sorry, #100daysofcode! Christmas with the family!
 **Today's Progress:** More data structures
 
 **Thoughts:** Getting a lot of practice with multidimensional arrays. 
+
+### Day 41 January 17, 2019
+
+**Today's Progress:** Completed Javascript datastructures now I'm on to basic algorithm scripting.
+
+**Thoughts:**the for...in loop is strange.
