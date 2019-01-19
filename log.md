@@ -246,3 +246,9 @@ Sorry, #100daysofcode! Christmas with the family!
 **Today's Progress:** Completed Javascript datastructures now I'm on to basic algorithm scripting.
 
 **Thoughts:**the for...in loop is strange.
+
+### Day 42 January 18, 2019
+
+**Today's Progress:** Doing some javascript basic algorithms, currently working on the returning largest number in two dimensional array.
+
+**Thoughts:** Not working yet...
