@@ -252,3 +252,9 @@ Sorry, #100daysofcode! Christmas with the family!
 **Today's Progress:** Doing some javascript basic algorithms, currently working on the returning largest number in two dimensional array.
 
 **Thoughts:** Not working yet...
+
+### Day 0 January 22, 2019
+
+**Today's Progress:**I've missed so many days, already, that I'm going to start a new 100 day challenge when I can manage the schedule.
+
+**Thoughts:** See you next time, #100daysofcode
